@@ -1,0 +1,552 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+    margin-top: 60px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.tenx{
+    border: 1px solid white;
+    width: 1086px;
+    height: 383px;
+    padding: 20px;
+    border-radius: 24px;
+    background: #FFF;
+    box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.08);
+     display: flex;
+     margin: 0 auto;
+     margin-top: 28px;
+}
+.quvonchbek{
+    margin-left: 33px;
+}
+.quvonchbek p{
+    width: 541px;
+    line-height: 140%;
+    color: #8D98AA;
+    font-size: 20px;
+    margin-top: 24px;
+}
+.djocean{
+    position: absolute;
+    top: 350px;
+    left: 750px;
+    display: flex;
+    margin-left: 300px;
+}
+
+.djocean h4{
+    margin-left: 24px;
+    color: #284B80;
+}
+.djocean p{
+  margin-top: 30px;
+  margin-left: -90px;
+  color: #8D98AA;
+  line-height: 140%;
+}
+.Right{
+    margin-top: 250px;
+   margin-left: -20px;
+}
+.qqq{
+    position: absolute;
+    top: 750px;
+    left: 750px;
+    display: flex;
+    margin-left: 300px;
+}
+
+.Ajayi h4{
+    margin-left: 24px;
+    color: #284B80;
+}
+.Ajayi p{
+  margin-top: 30px;
+  margin-left: -90px;
+  color: #8D98AA;
+  line-height: 140%;
+}
+.Left{
+    margin-top: 250px;
+   margin-left: -20px;
+}
+.main{
+    margin-top: 112px;
+    margin-left: 57px;
+}
+.How{
+    border: 1px solid white;
+    width: 354px;
+    height: 511px;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 4px 40px 0px rgba(0, 0, 0, 0.08);
+}
+.make{
+    display: flex;
+    justify-content: center;
+    padding: 14px;
+}
+.perfect{
+    margin-left: 14px;
+    line-height: normal;
+    color: #284B80;
+}
+.Ajaybek{
+    display: flex;
+    margin-left: 14px;
+    margin-top: 34px;
+}
+.Ajaybek h4{
+    margin-left: 24px;
+    color: #284B80;
+}
+.chiqarilgan{
+    margin-left: 100px;
+    margin-top: -30px;
+    color: #8D98AA;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .erali{
+width: 400px;
+border: 2px solid #f6f3f3;
+height: 500px;
+border-radius: 20px;
+background-color:rgb(252, 249, 249) ;
+}
+.erali .rasm1{
+    background-image: url("./Rectangle\ 1763.png");
+   
+    width: 350px;
+
+    border-radius: 20px;
+    height: 200px;
+    margin: 20px;
+}
+.rill{
+    /* background-image: url(./Vector\ \(1\).svg); */
+}
+
+
+
+  
+h1{
+    color: #555;
+font-family: Roboto;
+font-size: 23px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-left: 25px;
+}
+p{
+    color: #555;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px;
+margin-left: 23px;
+}
+
+input{
+    margin: 10px;
+    padding: 10px;
+
+width: 275px;
+height: 50px;
+flex-shrink: 0;
+border-radius: 10px;
+}
+.input2{
+width: 60px;
+height: 50px;
+
+}
+button{
+ width: 60px;
+height: 50px;
+flex-shrink: 0;
+font-size: 25px;
+color: white;
+background: #644dea;
+border-radius: 10px;
+}
+
+.erali .rasm2{
+    background-image: url(./Vector\ \(1\).svg);
+    
+}
+
+.rill{
+    display: flex;
+    align-items: center;
+ 
+}
+.rill div{
+    background: rgb(246, 244, 244);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 10px 0px rgba(0, 0, 0, 0.25);
+margin-top: -40px;
+z-index: 3;
+display: flex;
+justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.till{
+    width: 400px;
+    border: 2px solid #f6f3f3;
+    height: 500px;
+    border-radius: 20px;
+    background-color:rgb(252, 249, 249) ;
+    }
+    .till .photo1{
+        background-image: url("./Rectangle\ 1763.png");
+       
+        width: 350px;
+    
+        border-radius: 20px;
+        height: 200px;
+        margin: 20px;
+    }
+    .rill{
+        /* background-image: url(./Vector\ \(1\).svg); */
+    }
+    
+    
+    
+      
+    h1{
+        color: #555;
+    font-family: Roboto;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 25px;
+    }
+    p{
+        color: #555;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+    margin-left: 23px;
+    }
+    
+    input{
+        margin: 10px;
+        padding: 10px;
+    
+    width: 275px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    }
+    .input2{
+    width: 60px;
+    height: 50px;
+    
+    }
+    button{
+     width: 60px;
+    height: 50px;
+    flex-shrink: 0;
+    font-size: 25px;
+    color: white;
+    background: #644dea;
+    border-radius: 10px;
+    }
+    
+    .till .photo2{
+        background-image: url(./Vector\ \(1\).svg);
+        
+    }
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    * {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+        box-sizing: border-box;
+        justify-content: space-between;
+    
+    }
+    
+    .hero {
+        width: 100%;
+        min-height: 100vh;
+        background: black;
+        color: azure;
+    
+    }
+    
+    .img {
+        display: flex;
+        align-items: center;
+    }
+    
+    nav {
+        /* position: fixed; */
+        top: o;
+        left: 0;
+        width: 100%;
+        padding: 48px;
+        display: flex;
+        align-items: center;
+        gap: 600px;
+    }
+    
+    nav img {
+        width: 18px;
+    }
+    
+    nav ul li {
+        display: inline-block;
+        list-style: none;
+        padding: 5px 15px;
+    }
+    
+    .text-box p {
+        color: #FFF;
+        margin-bottom: 55px;
+    }
+    
+    .text-box {
+        z-index: 1;
+    }
+    
+    .text-box h1 {
+        margin-bottom: 37px;
+        color: #FFF;
+        font-family: Geomanist;
+        font-size: 80px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+    
+    .text-box button {
+        display: inline-flex;
+        padding: 13px 24px;
+        align-items: flex-start;
+        gap: 10px;
+    }
+    
+    .text-img {
+        position: relative;
+        display: flex
+    }
+    
+    .rasm {
+        position: absolute;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+    }
+    
